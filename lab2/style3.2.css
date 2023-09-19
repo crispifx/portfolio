@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.navbar{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+}
+
+.navbar li a{
+    color:black;
+    text-decoration: none;
+}
+
+.navbar li{
+    padding: 10px;
+    background-color: cyan;
+    font-size: 20px;
+    border: 1px solid black;
+    text-align: center;
+}

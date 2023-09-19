@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: red;
+    color:yellow;
+}
+.navbar{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+}
+
+.navbar li a{
+    color: black;
+    text-decoration: none;
+}
+
+.navbar li{
+    padding: 10px;
+    background-color: yellow;
+    font-size: 20px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+nav ul li:hover{
+    background-color: yellow;
+}
+
+
+/* eliminamos los valores por defecto de la etiqueta <a> */
+a{
+    text-decoration: none;
+    color: black;
+}
+.p8{
+    color: black;
+}
+.p2{
+    color: black;
+}
+.p3{
+    color: black;
+}
+.p4{
+    color: black;
+}
+.p5{
+    color: black;
+}
+.p6{
+    color: black;
+}
+
+
+.p7{
+    color: black;
+}
+.img1{
+    text-align: center;
+}
+.img2{
+    text-align: center;
+}
+
+

@@ -1,0 +1,63 @@
+.navbar :hover{
+    background-color: grey;
+    color: white;
+}
+.navbar {
+   font-size: xx-large;
+   text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color:black;
+    color: white;
+}
+.navbar2 :hover{
+    background-color: grey;
+    color: white;
+}
+.navbar2 {
+   font-size: xx-large;
+   text-align: center;
+}
+.navbar3 :hover{
+    background-color: grey;
+    color: white;
+}
+.navbar3 {
+   font-size: xx-large;
+   text-align: center;
+}
+.navbar4 :hover{
+    background-color: grey;
+    color: white;
+}
+.navbar4 {
+   font-size: xx-large;
+   text-align: center;
+}
+.p1{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.p2{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.p3{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.p4{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.img1{
+    text-align: center;
+}

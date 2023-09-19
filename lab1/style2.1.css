@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+    background-color: red
+    color yellow
+}
+
+
+/* selector avanzado: padre > hijo */
+.navbar > ul{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 1px;
+}
+
+
+/* barra de navegacion */
+.navbar > ul:hover{
+    background-color:crimson;
+}
